@@ -29,7 +29,7 @@ export default async function WebSearchPage({searchParams}) {
   }
   console.log(results)
   return (
-    <div>{results && results.map((result)=><h1>{result.title}</h1>)} </div>
-    // <div>{results && <WebSearchResults results={data} />}</div>
+    // <div>{results && results.map((result)=><h1>{result.title}</h1>)} </div>
+    <div>{results && <WebSearchResults results={data} />}</div>
   )
 }
