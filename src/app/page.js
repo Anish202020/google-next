@@ -17,6 +17,7 @@ export default function Home() {
           priority
           style={{ width: "auto" }}
           
+          
         ></Image>
         <HomeSearch/>
       </div>
