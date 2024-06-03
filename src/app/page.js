@@ -15,7 +15,7 @@ export default function Home() {
           width={300}
           height={100}
           priority
-          className="rounded-md"
+          className="rounded-md shadow-2xl"
           style={{ width: "auto" }}
           
           
