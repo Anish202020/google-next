@@ -9,12 +9,13 @@ export default function Home() {
       <div className="flex flex-col items-center mt-24">
         <Image
           src={
-            "https://logos-world.net/wp-content/uploads/2020/09/Google-Logo.png"
+            "https://i.ibb.co/WpstKbC/Elizabeth-and-Richard.jpg"
           }
           alt="Google Logo"
           width={300}
           height={100}
           priority
+          className="rounded-md"
           style={{ width: "auto" }}
           
           

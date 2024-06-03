@@ -46,7 +46,7 @@ export default function HomeSearch() {
           onClick={handleSubmit}
           className="bg-[#f8f9fa] rounded-md text-sm text-gray-800 hover:ring-gray-200 focus:outline-none activate:ring-gray-300 hover:shadow-md w-36 h-10"
         >
-          Google Search
+          LookUp Search
         </button>
 
         <button

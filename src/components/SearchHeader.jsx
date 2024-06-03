@@ -13,11 +13,11 @@ export default function SearchHeader() {
         <Link href={'/'}>
         <Image
           src={
-            "https://logos-world.net/wp-content/uploads/2020/09/Google-Logo.png"
+            "https://i.ibb.co/j6MtKfp/a-1.png"
           }
           alt="Google Logo"
-          width={120}
-          height={40}
+          width={65}
+          height={20}
           priority
           style={{ width: "auto" }}
           

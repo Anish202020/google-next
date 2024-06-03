@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Google Clone",
+  title: "Look Up | Search the best",
   description: "Google Clone",
 };
 
