@@ -1,7 +1,7 @@
 # LookUp
 ## Overview
 <img src="https://i.pinimg.com/736x/39/e7/37/39e737ae72388916f070afdff4d06265.jpg" width="150"  height="150" alt="accessibility text">
-**LookUp** is a web application designed to perform basic text and image searches. It leverages modern web technologies to provide a fast and responsive user experience.
+<b>LookUp</b> is a web application designed to perform basic text and image searches. It leverages modern web technologies to provide a fast and responsive user experience.
 
 ## Features
 - Basic text searches
@@ -15,9 +15,9 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 To set up the development environment for **LookUp**, follow these steps:
 
-1. Clone the repository:git clone https://github.com/your-username/lookup.git
+1. Clone the repository:git clone [https://github.com/Anish202020/google-next.git]
 2. Navigate to the project directory:cd lookup
-3. Install the dependencies: ornpm installyarn install
+3. Install the dependencies: npm install or yarn install
 ## Usage
 To start the development server, run:
 
@@ -39,8 +39,7 @@ Contributions are welcome! To contribute to **LookUp**, follow these steps:
 3. Make your changes and commit them:git commit -m 'Add some feature'
 4. Push to the branch:git push origin feature/your-feature-name
 5. Create a pull request.
-## License
-This project is licensed under the Apache License 2.0. See the [﻿LICENSE](https://license/) file for details.
+
 
 
 
