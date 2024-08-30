@@ -3,6 +3,9 @@
 <img src="https://i.pinimg.com/736x/39/e7/37/39e737ae72388916f070afdff4d06265.jpg" width="150"  height="150" alt="accessibility text">
 <b>LookUp</b> is a web application designed to perform basic text and image searches. It leverages modern web technologies to provide a fast and responsive user experience.
 
+## Data Flow Diagram
+<img src="https://i.ibb.co/gFvk98X/diagram-export-8-30-2024-4-14-06-PM.png" alt="diagram-export-8-30-2024-4-14-06-PM" border="0">
+
 ## Features
 - Basic text searches
 - Image searches
