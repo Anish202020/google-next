@@ -1,10 +1,18 @@
-# LookUp
+# LookUp | Search Engine
+<img src="https://i.ibb.co/j4Ggbd2/5.png" alt="5" border="0">
+
 ## Overview
 <img src="https://i.pinimg.com/736x/39/e7/37/39e737ae72388916f070afdff4d06265.jpg" width="150"  height="150" alt="accessibility text">
 <b>LookUp</b> is a web application designed to perform basic text and image searches. It leverages modern web technologies to provide a fast and responsive user experience.
 
-## Data Flow Diagram
+## Dataflow Diagram
+<details>
+  <summary>Click to See The DataFlow Diagram</summary>
+
 <img src="https://i.ibb.co/gFvk98X/diagram-export-8-30-2024-4-14-06-PM.png" alt="diagram-export-8-30-2024-4-14-06-PM" border="0">
+
+The Above is the Dataflow Diagram of LookUp | Search Engine
+</details>
 
 ## Features
 - Basic text searches
