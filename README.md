@@ -9,7 +9,7 @@
 <details>
   <summary>Click to See The DataFlow Diagram</summary>
 
-<img src="https://i.ibb.co/gFvk98X/diagram-export-8-30-2024-4-14-06-PM.png" alt="diagram-export-8-30-2024-4-14-06-PM" border="0">
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Dataflow/lookup.png" alt="diagram-export-8-30-2024-4-14-06-PM" border="0">
 
 The Above is the Dataflow Diagram of LookUp | Search Engine
 </details>
