@@ -1,6 +1,11 @@
 # LookUp | Search Engine
 <img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/Web%20Development/6.png" alt="5" border="0">
 
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ## Overview
 <img src="https://i.pinimg.com/736x/39/e7/37/39e737ae72388916f070afdff4d06265.jpg" width="150"  height="150" alt="accessibility text">
 <b>LookUp</b> is a web application designed to perform basic text and image searches. It leverages modern web technologies to provide a fast and responsive user experience.
