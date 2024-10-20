@@ -1,5 +1,5 @@
 # LookUp | Search Engine
-<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/6.png" alt="5" border="0">
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/Web%20Development/6.png" alt="5" border="0">
 
 ## Overview
 <img src="https://i.pinimg.com/736x/39/e7/37/39e737ae72388916f070afdff4d06265.jpg" width="150"  height="150" alt="accessibility text">
